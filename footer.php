@@ -15,7 +15,7 @@
     </div>
 </div>
 <?php
-    include "js/headerSlider.js";
+
 
     wp_footer();
 ?>
